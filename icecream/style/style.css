@@ -16,8 +16,7 @@ header .soch {
   display: flex;
   align-items: center;
 }
-
-.li {
+header .li {
   width: 500px;
   list-style: none;
   display: flex;

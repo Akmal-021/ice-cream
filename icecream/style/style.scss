@@ -16,17 +16,19 @@
         display: flex;
         align-items: center;
       }
+
+      .li {
+        width: 500px;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
   }
   
 
   
-  .li {
-    width: 500px;
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
+ 
   
   .li a {
     text-decoration: none;
